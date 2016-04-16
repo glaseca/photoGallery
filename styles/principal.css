@@ -1,0 +1,17 @@
+#one-column{	background-color: #FFFF99;}
+#section{	background-color: #FFFF99;}
+#section img{	background-image:url(../images/madera.jpg);}
+#title{	background-color: #FFCC66;}
+#title li{	background-color: #FFFF99;}
+#title a{	color: #252525;}
+#title a:hover{	color: #FF9900;}
+a{	color: #000;}
+a:hover{	color: #FF9900;}
+aside{	background-color: #FFCC66;}
+body{	color: #252525;}
+header{		background-color: #FFFF99;}
+.sortable th { background:#FFCC66; color:#000; }
+.sortable td { background:#CCC; }
+.sortable .asc {background:#FFCC66 url(../images/asc.gif) 6px  center no-repeat; }
+.sortable .desc {background:#FFCC66 url(../images/desc.gif) 6px center no-repeat; }
+.sortable .head {background:#FFCC66 url(../images/sort.gif) 6px center no-repeat; }

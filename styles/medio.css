@@ -1,0 +1,70 @@
+.display-medio{	display: inherit !important;}
+#acceder{	margin-bottom: -5px;	border-radius: 5px;	margin-right:20px;}
+#acceso label{	display:inline;}
+#footer{	margin: 15px;	overflow: hidden;}
+#fotodetalle{	width: 80%;	margin-left: 10%;}
+#one-column{	width: 100%;	padding-bottom: 40px;}
+#one-column form{	margin-left: 10%;}
+#one-column form  #user { width: 172px;}
+#one-column form  #email { width: 220px;}
+#one-column form  #pass { width: 146px;}
+#one-column form  #pass2 { width: 146px;}
+#one-column form  #hombre { margin-left: 30px;}
+#one-column form  #bday { width: 70px;}
+#one-column form  #ciudad { width: 90px;}
+#one-column form  #pais { width: 148px;}
+#one-column p{	margin: 0 40px;	text-align: justify;	font-size: 1.1em;}
+#one-column #buscar{	margin-left: 31%;	width: 330px;}
+#one-column #buscar #titulo{	width: 230px;}
+#one-column #buscar #fecha1{	width: 80px;}
+#one-column #buscar #fecha2{	width: 80px;}
+#one-column #buscar #pais{	width: 237px;}
+#nuevousuario h2 { margin-top: 30px; }
+#nuevousuario ul { margin-left: 200px; margin-top: 30px; list-style-type:circle;}
+#nuevousuario li .avatar{	top: 18px; left: 12px; position: relative; }
+#busqueda{	margin: 10px 0 0 120px;}
+#registrar{	margin: 4% 0 0 40%;}
+#resultado th{	width: 102px;}
+#resultado td{	width: 20%;}
+#section{	float: right;	width: 62.35%;}
+#title{	padding: 50px 0;}
+#title li{	display:inline;	margin: 0 20px;	font-size: 2em;	border:2px solid #252525;	padding: 5px 10px; 	background: #FFFF99;	border-radius: 8px;
+	-webkit-touch-callout: none;	-webkit-user-select: none;	-khtml-user-select: none;	-moz-user-select: none;	-ms-user-select: none;	user-select: none;}
+#title ul{	list-style-type:none;	margin:50px 0 -20px 0;	padding:0;}
+#wrapper{	width: 100%;	margin: auto;	overflow: hidden;}
+aside{	width:37.5%;	float: left;	padding: 50px 0;}
+aside img{	margin: 8%;}
+header{		width: 100%;	padding-left: 8px;	overflow: hidden;	margin: auto;}
+header .saludo{	float: right;}
+header p a{ margin: 0 10px 0 25px;}
+input{	margin: 10px;}
+input[type=radio]{	margin-right: 4px;}
+.ultimas{	text-align: left;	padding-left: 100px;	margin-top: 50px;}
+.estilos  li{	border-width: 0px !important;	font-family: Century Gothic, sans-serif !important;	font-size: 12px !important;	margin: 0 3px 0 8px !important;
+	float: left; position: relative; bottom: 78px; padding: 3px !important;}
+#sorter #thimagen  { width: 100px !important; }
+#sorter .head { width: 100px !important; }
+#sorter .desc { width: 100px !important; }
+#sorter .asc { width: 100px !important; }
+.sortable { width: 570px; }
+#sorter {  margin-left: 14%; }
+#datosfoto{	margin: 0 auto;	width: 80%;	}
+#datosfoto .idfoto { width: 22%; }
+#datosfoto .titulo { width: 31%; }
+#datosfoto .fecha { width: 25%; }
+#datosfoto .pais { width: 20%; }
+#datosfoto .album { width: 30%; }
+#datosfoto .usuario { width: 25%; }
+#datosperfil h2 {margin-left: 0; }
+#datosperfil ul { margin: 30px 0 0 30px;}
+#datosperfil ul li { line-height: 20px; text-align: left;}
+#datosperfil ul li { margin: 0;}
+#datosperfil ul li img{ position: relative; top: 55px;}
+#datosperfil ul .textoavatar { position: relative; bottom: 70px; vertical-align: text-top; }
+#perfilalbum h3 { margin-top: 50px; }
+#perfilalbum .albumes { margin: 10px 0; font-style: italic; }
+#perfilalbum  fieldset { width: 542px; margin:0 auto; }
+#perfilalbum  legend { margin-left: 18px; }
+#perfilalbum #agregarfoto { margin-top: 50px; height: 298px; }
+#perfilalbum #creaalbum { height: 362px; margin-top: 40px; }
+#perfilalbum #descripcion { width: 467px; font-family: sans-serif; font-size: 13px;}

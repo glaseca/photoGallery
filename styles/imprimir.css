@@ -1,0 +1,34 @@
+.display-print{	display: inherit !important;}
+a{	text-decoration: none;	font-weight: bold;}
+a:hover{	font-weight: bold;}
+aside{	display:none;}
+body, #wrapper{  float: none;  width: auto;  margin: 0;  padding: 0;}
+body, p, td, th{  font-family: Century Gothic, sans-serif;  font-size: 12px;  color: #000;  background: #fff;}
+h1{	font-size: 3.5em;}
+h2{	font-size: 20px;	margin-left: 10%;	}
+h3{	font-size: 18px;}
+h4{	font-size: 16px;}
+header{		border-top: solid 1px white;}
+label {	font-weight: bold;	padding: 7px;	display: inline-block;}
+table{	margin-left: 50px;}
+td{	margin: 10px;}
+p{	padding: 10px;}
+#acceso{	display: none;}
+#buscar{	margin-left: 10%;}
+#buscar label{	display: block;	width: 250px;}
+#busqueda{	margin: 30px 0 2% 10%;}
+#footer{	text-align: center;}
+#fotodetalle{	max-width: 600px;	margin-left: 25px;}
+#one-column{	margin: auto;	overflow: auto;}
+#registrar{	margin: 30px 0 0 350px;}
+#resultado{	margin-left: 7%;}
+#resultado th{	text-transform: uppercase; 	border-bottom: dashed 1px black;	margin-bottom: 10px;	padding-bottom: 10px;		width: 200px;	}
+#resultado #thimagen{	width: 200px;	text-transform: uppercase; 	border-bottom: dashed 1px black;	margin-bottom: 10px;	padding-bottom: 10px;	}
+#resultado td{	vertical-align:middle;	text-align: center;	padding-bottom: 5px;	padding-top: 5px;	width: 200px;}
+#section{	text-align: center;	}
+#title{	text-align: center;	font-family: 'Pirata One', cursive;	width: 100%;	margin-top: 0;	overflow: hidden;}
+.cursiva{	font-style: italic;}
+.dato{	display: inline;	margin-left: 260px;}
+.dato:after{	content: ": ";	}
+.fotoresultado{	width: 200px;}
+.ultimas{	text-decoration: underline;}

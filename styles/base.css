@@ -1,0 +1,44 @@
+.display-pc{display: none;}	
+.display-medio{	display: none;}
+.display-peq{	display: none;}
+.sortable {width:823px; border:1px solid #ccc; border-bottom:none}
+.sortable th {padding:4px 6px 6px;  text-align: center; font-weight: bold;}
+.sortable td {padding:2px 4px 4px; border-bottom:1px solid #ccc}
+.sortable .head { cursor:pointer; padding-left:18px}
+.sortable .desc { cursor:pointer; padding-left:18px}
+.sortable .asc { cursor:pointer; padding-left:18px}
+.sortable .head:hover, .sortable .desc:hover, .sortable .asc:hover {color:#fff; }
+.sortable .even td {background:#f2f2f2}
+.sortable .odd td {background:#fff}
+.negrita { font-weight: bold; }
+.oculto { display: none;}
+a{	text-decoration: none;	font-weight: bold;}
+a:hover{	font-weight: bold;}
+aside{	text-align: center;}
+body{	font-family: Century Gothic, sans-serif;	font-size: 12px;}
+h1{	font-size: 3.5em;}
+h2{	font-size: 20px;	margin-left: 10%;	}
+h3{	font-size: 18px;}
+h4{	font-size: 16px;}
+header{		border-top: solid 1px white;}
+input:focus{	border: solid 1px #FF9900;}
+label {	font-weight: bold;	padding: 7px;	display:inline-block;}
+p{	padding: 10px;}
+#acceso label{	font-weight: bold;	padding: 7px;    width: 100%;}
+#footer{	text-align: center;}
+#one-column{	margin: auto;	overflow: auto;}
+#sorter{	margin-left: 7%;}
+#sorter th{	text-transform: uppercase; 	border-bottom: dashed 1px black;	margin-bottom: 10px;	padding: 10px;	}
+#sorter #thimagen{	width: 200px;	text-transform: uppercase; 	border-bottom: dashed 1px black;	margin-bottom: 10px;	padding-bottom: 10px;	}
+#sorter td{	vertical-align:middle;	text-align: center;	padding-bottom: 5px;	padding-top: 5px;}
+#section{	text-align: center;	}
+#section img{	margin: 20px;	padding: 10px;}
+#title{	text-align: center;	font-family: 'Pirata One', cursive;	width: 100%;	background-color: #99CCFF;	margin-top: 0;	overflow: hidden;
+	border-bottom: solid 1px white;	border-top: solid 1px white;}
+.conSombra{  box-shadow: 5px 5px 5px #888;  border: solid 1px #444;	}
+.cursiva{	font-style: italic;}
+.dato:after{content: ": ";	}
+.fotoresultado{	width: 200px;}
+.ultimas{	text-decoration: underline;}
+input[type=hidden]{ margin: 0px;}
+.botonbusqueda { width: 110px; }
