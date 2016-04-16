@@ -1,6 +1,8 @@
 # PI - Pictures & Images
 ## Curso iDesWeb (Introducción al desarrollo web) utilizando HTML, Javascript, PHP y CSS
 
+Curso impartido por profesorado de la Universidad de Alicante.
+
 Repositorio de la aplicación de desarrollo del curso en [Miriada X](https://www.miriadax.net/), con las siguientes carácterísticas:
 
 + Gestión completa de usuarios
